@@ -1,0 +1,18 @@
+   <Router>
+        <Route path="/" component={App}>  
+          <Route path="/demo1" component={demo1}/>
+        </Route>
+      </Router> */}
+    { /*<App /> 
+    <Router history={hashHistory}>
+      <Route path="/" component={demo1}/>
+    </Router>, 
+        {/* <ul role="nav">
+      <li>About
+        <Router history={hashHistory}>
+          <Route path="/" component={App}>  
+            <Route path="/demo1" component={demo1}/>
+          </Route>
+        </Router>
+      </li>
+    </ul> */}
